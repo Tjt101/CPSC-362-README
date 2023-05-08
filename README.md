@@ -22,7 +22,9 @@ It is only available for Windows PC.
 - From there, press back to go back to the main menu and restart, should you choose to.
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/61815369/236956916-70afb99e-300d-4a12-8f61-c491d6f2dc87.png)
 
+![image](https://user-images.githubusercontent.com/61815369/236956876-fa2d9cc4-0626-4cae-aebe-3c320c6dd925.png)
 
 ## Contributors
 
